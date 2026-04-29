@@ -1,11 +1,4 @@
-Good—now you’re thinking at **real engineer level**.
-A proper README with a **flow diagram + clear structure** is exactly what makes recruiters take you seriously.
 
-Here’s a **clean, standard, recruiter-ready version** with a proper flow diagram included 👇
-
----
-
-# FINAL REVISED README (USE THIS)
 
 ```markdown
 # Unipay – Multi-Currency Payment System
