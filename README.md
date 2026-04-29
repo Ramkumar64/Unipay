@@ -1,6 +1,4 @@
 
-
-```markdown
 # Unipay – Multi-Currency Payment System
 
 ## Overview
